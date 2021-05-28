@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="25.719"
-   height="25.719"
-   viewBox="0 0 25.719 25.719"
+   width="30"
+   height="24"
+   viewBox="0 0 30 24"
    version="1.1"
-   id="svg3"
-   sodipodi:docname="search-solid.svg"
+   id="svg6"
+   sodipodi:docname="icon_hamburguer.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata9">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs7" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,19 +38,45 @@
      inkscape:pageshadow="2"
      inkscape:window-width="716"
      inkscape:window-height="480"
-     id="namedview5"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="9.1760955"
-     inkscape:cx="12.8595"
-     inkscape:cy="12.8595"
-     inkscape:window-x="36"
-     inkscape:window-y="560"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="15"
+     inkscape:cy="12"
+     inkscape:window-x="38"
+     inkscape:window-y="551"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3" />
-  <path
-     id="search-solid"
-     d="M19,3a9.995,9.995,0,0,0-7.75,16.313L3.281,27.281l1.438,1.438,7.969-7.969A10,10,0,1,0,19,3Zm0,2a8,8,0,1,1-8,8A7.985,7.985,0,0,1,19,5Z"
-     transform="translate(-3.281 -3)"
-     fill="#fff"
-     style="fill:#000000" />
+     inkscape:current-layer="svg6" />
+  <g
+     id="icon_hamburguer"
+     transform="translate(-382 -48)"
+     style="fill:#000000">
+    <rect
+       id="Retângulo_2"
+       data-name="Retângulo 2"
+       width="30"
+       height="3"
+       rx="1.5"
+       transform="translate(382 48)"
+       fill="#fff"
+       style="fill:#fff" />
+    <rect
+       id="Retângulo_3"
+       data-name="Retângulo 3"
+       width="30"
+       height="3"
+       rx="1.5"
+       transform="translate(382 58.451)"
+       fill="#fff"
+       style="fill:#fff" />
+    <rect
+       id="Retângulo_4"
+       data-name="Retângulo 4"
+       width="22"
+       height="3"
+       rx="1.5"
+       transform="translate(382 69)"
+       fill="#fff"
+       style="fill:#fff" />
+  </g>
 </svg>
